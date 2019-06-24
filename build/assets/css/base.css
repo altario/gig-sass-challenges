@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper .block {
+  padding: 30px;
+  margin: 20px;
+  line-height: 1.8;
+  white-space: nowrap;
+  border-radius: 10px;
+  box-shadow: 0 0 16px 0 rgba(10, 22, 70, 0.1), 0 16px 16px -1px rgba(10, 22, 70, 0.1);
+}
+
+.wrapper .block img {
+  width: 627px;
+  height: auto;
+}
+
+h1 {
+  margin: 0;
+}

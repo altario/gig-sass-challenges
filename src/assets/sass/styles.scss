@@ -1,0 +1,38 @@
+// ------------------------------------------------------------------
+//
+//  #OUTPUT (styles.css file)
+//    @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+//    @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&display=swap");
+//    @import url("https://fonts.googleapis.com/css?family=Aguafina+Script:400&display=swap");
+//    @import url("https://fonts.googleapis.com/css?family=Indie+Flower&display=swap");
+//    body {
+//      font-family: "Indie Flower";
+//    }
+//
+// ------------------------------------------------------------------
+
+$font-family--primary: 'Indie Flower';
+
+$google-fonts: (
+  Roboto: (
+    300,
+    400,
+    500,
+    700
+  ),
+  Source-Sans-Pro: (
+    400,
+    600,
+    700
+  ),
+  Aguafina-Script: (
+    400
+  ),
+  Indie-Flower: ()
+);
+
+// code here...
+
+body {
+  font-family: $font-family--primary;
+}
