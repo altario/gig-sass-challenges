@@ -1,4 +1,13 @@
-# Altar: Sass test (easy level)
+# Altar: Sass gig (easy)
+
+## STEPS
+
+1. Fork the project
+2. Clone it to your computer
+3. Create a branch with your name (ex: andre-pinto)
+4. Develop under that branch
+5. Run `gulp build` at the end
+6. Submit a Pull Request to us
 
 Our website [altar.io](http://altar.io)
 
