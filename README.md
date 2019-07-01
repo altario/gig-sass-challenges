@@ -1,15 +1,13 @@
-# Altar: Sass gig (easy)
+# Altar: gig-sass-challenges **[DO NOT FORK]**
 
 ## STEPS
 
-1. Fork the project
-2. Clone it to your computer
-3. Create a branch with your name (ex: andre-pinto)
-4. Develop under that branch
-5. Run `gulp build` at the end
-6. Submit a Pull Request to us
-
-Our website [altar.io](http://altar.io)
+1. **Clone** the project to your GitHub account **[DO NOT FORK]**
+2. Create a branch with your name (ex: andre-pinto)
+3. Develop under that branch
+4. Run `gulp build` at the end
+5. Submit a **Pull Request** on your **Repo**
+6. Send us an email with your **Repo**
 
 ## EXERCISE
 
